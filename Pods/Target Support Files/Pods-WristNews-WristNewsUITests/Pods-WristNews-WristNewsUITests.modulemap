@@ -1,0 +1,6 @@
+framework module Pods_WristNews_WristNewsUITests {
+  umbrella header "Pods-WristNews-WristNewsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
